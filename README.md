@@ -4,16 +4,15 @@
 <h1>Ellóra Olivério | Estudante de Desenvolvimento de software </h1>
 
 
-## 🚀 Começando
+## Começando
+ <a href="(https://meu-site-2.vercel.app/index.html#menu)">Aqui</a>
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-### 📋 Pré-requisitos
+### Apresentação 
 
 
-## 🎁 Expressões de gratidão
+## Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
+* Convide alguém da equipe para um café ☕;
 * Um agradecimento publicamente 🫂;
 * etc.
