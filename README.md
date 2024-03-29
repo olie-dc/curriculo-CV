@@ -5,17 +5,20 @@
 
 
 ## Começando
- <p>Esse é o link para acessar a minha página: </p>
+ <p>Esse é o link para acessar a minha página: https://curriculo-cv-five.vercel.app/ </p>
 
 ### Apresentação 
-Descrição do projeto
+<p>Este é o meu primeiro site online. Este é um breve resumo sobre mim e sobre meus projetos.<br> Espero contribuir muito para a área da tecnologia, e desenvolver muitos projetos. </p>
 
 ## Softwares utilizados
-
-vscode
-Figma
+Vs Code: https://code.visualstudio.com/
+<br>
+Figma: https://www.figma.com/
 
 ## Imagens do Site
-prints
-prints
-prints
+
+Imagem 1: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print..png)
+<br>
+Imagem 2: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/prin.2.png)
+<br>
+Imagem 3: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print.3.png)
