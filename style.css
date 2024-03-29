@@ -1,0 +1,116 @@
+/* Navigation */
+body {
+    position: absolute;
+    height: 164px;
+    left: 38px;
+    right: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+hr {
+    border: 0;
+    height: 10px;
+    background-image:initial;
+}
+
+/*menu*/
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 25px;
+    gap: 15px;
+}
+.botoes {
+    float:right;
+    display:inline-flex;
+    grid-auto-flow: column;
+    margin-right: 15px;
+    width: auto;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+/*Nome da Página*/
+.nome {
+    position: absolute;
+    width: 436px;
+    height: 15px;
+    left: 15px;
+    top: 25px;
+}
+.topo-nome {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+/*Sobre mim*/
+
+.sobre-mim {
+
+}
+.home-titulo-h1{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 120px;
+}
+.home-paragrafo {
+    position: relative;
+    width: 624px;
+    height: 521px;
+    left: 118px;
+    top: 10px;
+} 
+
+.home-img {
+    position: absolute;
+    right: 45px;
+    top: 78px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+/*Certificados*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Footer e contatos*/
+box-sizing: border-box;
+
+position: relative;
+width: 1478px;
+height: 256px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+
+
+
