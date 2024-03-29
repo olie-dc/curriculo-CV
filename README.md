@@ -5,14 +5,17 @@
 
 
 ## Começando
- <a href="(https://meu-site-2.vercel.app/index.html#menu)">Aqui</a>
+ <p>Esse é o link para acessar a minha página: </p>
 
 ### Apresentação 
+Descrição do projeto
 
+##Softwares utilizados
 
-## Expressões de gratidão
+vscode
+Figma
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para um café ☕;
-* Um agradecimento publicamente 🫂;
-* etc.
+## Imagens do Site
+prints
+prints
+prints
