@@ -17,10 +17,10 @@ Figma: https://www.figma.com/
 
 ## Imagens do Site
 
-Imagem 1: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print..png)
+![Imagem 1](https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print..png)
 <br>
-Imagem 2: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/prin.2.png)
+![Imagem 2](https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/prin.2.png)
 <br>
-Imagem 3: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print.3.png)
+![Imagem 3](https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/print.3.png)
 <br>
-Imagem 4: (https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/projeto-figma.png)
+![Imagem 4](https://raw.githubusercontent.com/olie-dc/curriculo-CV/main/projeto-figma.png)
